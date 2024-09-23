@@ -6,6 +6,7 @@ import Footer from './components/Footer';
 function App() {
   return (
     <>
+    <section id="bg"></section>
       <CharacterEditor />
       <Footer />
     </>
